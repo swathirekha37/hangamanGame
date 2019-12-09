@@ -56,7 +56,6 @@ print  ("The word is", len(word), "letters long.")# used to show how many letter
 
 ln = len(word)
 guessed = dict.fromkeys(word, 0)
-print guessed
 print " "
 print " "
 print('- '*ln)
